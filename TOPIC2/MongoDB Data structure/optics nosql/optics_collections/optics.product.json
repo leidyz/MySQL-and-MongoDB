@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6514296c32edd36308e8d323"
+  },
+  "graduation": 1,
+  "type": [
+    "floating",
+    "paste",
+    "metallic"
+  ],
+  "frame_color": "red",
+  "glass_color": "violet",
+  "price": 30,
+  "supplier": "6514261132edd36308e8d31d"
+},
+{
+  "_id": {
+    "$oid": "65142bba32edd36308e8d32c"
+  },
+  "graduation": 3,
+  "type": [
+    "floating",
+    "paste",
+    "metallic"
+  ],
+  "frame_color": "green",
+  "glass_color": "black",
+  "price": 20,
+  "supplier": "6514261132edd36308e8d31d"
+}]

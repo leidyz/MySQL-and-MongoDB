@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "65142b8c32edd36308e8d32a"
+  },
+  "date": "2023/4/3",
+  "total_sale": 100,
+  "employee": "angela",
+  "products": [
+    "65142bba32edd36308e8d32c",
+    "6514296c32edd36308e8d323"
+  ],
+  "customer": "651427b332edd36308e8d320"
+}]

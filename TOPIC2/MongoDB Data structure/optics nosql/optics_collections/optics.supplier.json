@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6514261132edd36308e8d31d"
+  },
+  "name": "luxottica",
+  "telephone": {
+    "$numberLong": "3409876543"
+  },
+  "nif": "h98347593",
+  "address": {
+    "street": "paseo de gracia",
+    "number": 3,
+    "floor": 2,
+    "postal_code": 90909,
+    "city": "barcelona",
+    "country": "spain"
+  },
+  "brands": [
+    "prada",
+    "dolce&gabbana",
+    "versace"
+  ]
+}]

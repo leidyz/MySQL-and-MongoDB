@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "651427b332edd36308e8d320"
+  },
+  "name": "ana",
+  "telephone": {
+    "$numberLong": "34098333355"
+  },
+  "address": {
+    "street": "barceloneta",
+    "number": 3,
+    "floor": 2,
+    "postal_code": 91020,
+    "city": "barcelona",
+    "country": "spain"
+  },
+  "email": "ana@hotmail.com",
+  "registration_date": "2022/5/6",
+  "recommended": "dan"
+}]
